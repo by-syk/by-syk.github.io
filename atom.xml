@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>代码笔记</title>
   <id>https://by-syk.github.io</id>
-  <updated>2018-05-03T22:20:44+08:00</updated>
+  <updated>2018-05-03T22:49:41+08:00</updated>
   <subtitle>Java Android Python JS 啥的随便记记</subtitle>
   <link href="https://by-syk.github.io"></link>
   <author>
@@ -13,6 +13,9 @@
     <id>tag:by-syk.github.io,2018-05-03:/get-qq-pvp-hero-cover.html</id>
     <content type="html"></content>
     <link href="https://by-syk.github.io/get-qq-pvp-hero-cover.html"></link>
+    <author>
+      <name>By_syk</name>
+    </author>
   </entry>
   <entry>
     <title>Hello World</title>
@@ -20,5 +23,8 @@
     <id>tag:by-syk.github.io,2018-05-03:/hello-world.html</id>
     <content type="html">&lt;p&gt;我是 By_syk， 一名开发者。&lt;/p&gt;&#xA;</content>
     <link href="https://by-syk.github.io/hello-world.html"></link>
+    <author>
+      <name>By_syk</name>
+    </author>
   </entry>
 </feed>
