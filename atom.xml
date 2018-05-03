@@ -1,30 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>纸小墨官方博客</title>
-  <id>http://www.chole.io/blog</id>
-  <updated>2018-05-03T20:46:08+08:00</updated>
-  <subtitle>构建只为纯粹书写的博客</subtitle>
-  <link href="http://www.chole.io/blog"></link>
+  <title>代码笔记</title>
+  <id>https://by-syk.github.io</id>
+  <updated>2018-05-03T22:20:44+08:00</updated>
+  <subtitle>Java Android Python JS 啥的随便记记</subtitle>
+  <link href="https://by-syk.github.io"></link>
   <author>
-    <name>纸小墨官方博客</name>
+    <name>代码笔记</name>
   </author>
   <entry>
-    <title>简洁的静态博客构建工具 —— 纸小墨（InkPaper）</title>
-    <updated>2016-07-11T17:00:00+08:00</updated>
-    <id>tag:www.chole.io,2016-07-11:/blog/ink-blog-tool.html</id>
-    <content type="html">&lt;p&gt;纸小墨（InkPaper）是一个GO语言编写的开源静态博客构建工具，可以快速搭建博客网站。它无依赖跨平台，配置简单构建快速，注重简洁易用与更优雅的排版。&lt;/p&gt;&#xA;</content>
-    <link href="http://www.chole.io/blog/ink-blog-tool.html"></link>
-    <author>
-      <name>纸小墨</name>
-    </author>
+    <title>Python 例子之下载王者荣耀全部英雄海报</title>
+    <updated>2018-05-03T22:00:00+08:00</updated>
+    <id>tag:by-syk.github.io,2018-05-03:/get-qq-pvp-hero-cover.html</id>
+    <content type="html"></content>
+    <link href="https://by-syk.github.io/get-qq-pvp-hero-cover.html"></link>
   </entry>
   <entry>
-    <title>An Elegant Static Blog Generator —— InkPaper</title>
-    <updated>2016-07-11T17:00:00+08:00</updated>
-    <id>tag:www.chole.io,2016-07-11:/blog/ink-blog-tool-en.html</id>
-    <content type="html">&lt;p&gt;InkPaper is an static blog generator developed by Golang, No dependencies, Cross platform, Easy use, Fast build, Elegant theme.&lt;/p&gt;&#xA;</content>
-    <link href="http://www.chole.io/blog/ink-blog-tool-en.html"></link>
-    <author>
-      <name>纸小墨</name>
-    </author>
+    <title>Hello World</title>
+    <updated>2018-05-03T21:00:00+08:00</updated>
+    <id>tag:by-syk.github.io,2018-05-03:/hello-world.html</id>
+    <content type="html">&lt;p&gt;我是 By_syk， 一名开发者。&lt;/p&gt;&#xA;</content>
+    <link href="https://by-syk.github.io/hello-world.html"></link>
   </entry>
 </feed>
